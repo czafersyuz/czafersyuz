@@ -1,7 +1,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=czafersyuz"            alt="czafersyuz" /> </p>
 
-<h2 align="center">My Name İs Mustafa :wave:</h2>
+<h2 align="center">My Name İs Cafer :wave:</h2>
 <h3 align="center"><a href="https://mustafa-altas.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/My%20Site-Click%20Me!-blue" alt="" width="200px"></a></h3>
 <p align="center">
         I am skilled at developing complex solutions, creating responsive
