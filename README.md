@@ -1,5 +1,5 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=czafersyuz"            alt="D1183-Mustafa" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=czafersyuz"            alt="czafersyuz" /> </p>
 
 <!--
 **czafersyuz/czafersyuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
